@@ -1,0 +1,18 @@
+name: u-band-strat
+channels:
+  - conda-forge
+dependencies:
+  - black
+  - flake8
+  - flake8-bugbear
+  - flake8-simplify
+  - isort
+  - jupyterlab
+  - matplotlib
+  - mypy
+  - numpy
+  - pip
+  - python=3.11
+  - rubin-sim
+  - pip:
+      - lbg_tools
