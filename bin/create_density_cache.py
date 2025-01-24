@@ -8,7 +8,7 @@ from u_band_strat import data_dir
 # Cache number density calculations
 m5s = np.arange(22, 29, 0.1)
 cache_number_density = {}
-for band in "ugr":
+for band in "ugriz":
     vals0 = []
     for mag_cut in m5s:
         vals1 = []

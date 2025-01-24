@@ -17,9 +17,5 @@ Then download the zipped `data` directory from the github release.
 Finally, run `python bin/create_density_cache.py`.
 
 You can then run the notebooks in any order to create the plots for the paper.
-Note the photo-z metric plots are not produced in this directory.
+Note that plots related to photo-z modeling are not produced in this directory.
 They were produced on USDF and provided by Melissa Graham.
-
-Still need to add these figures:
-- IGM magnitude increments
-- IGM mag increments for u and g vs redshift

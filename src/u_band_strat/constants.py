@@ -23,3 +23,10 @@ cmaps = dict(
     i="Oranges",
     z="Reds",
 )
+det_bands = dict(
+    u="r",
+    g="i",
+    r="z",
+    i="z",
+    z="y",
+)
